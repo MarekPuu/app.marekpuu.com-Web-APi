@@ -9,6 +9,8 @@ CV-sivu on saatavilla domainilla: [marekpuu.com](https://marekpuu.com)
 
 Projekti on näkyvissä domainilla: [app.marekpuu.com](https://app.marekpuu.com)
 
+Projektin suunnitelma: [Figma suunnitelma](https://www.figma.com/file/vcx4xHD61vkV4Lj52q7BDn/MarekPuu?node-id=0%3A1&t=gUtzj11mZ7BuDVuO-1)
+
 Ominaisuudet
 ---
 - Kirjaudu tai rekisteröidy

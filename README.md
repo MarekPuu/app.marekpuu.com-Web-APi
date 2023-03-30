@@ -9,8 +9,6 @@ CV-sivu on saatavilla domainilla: [marekpuu.com](https://marekpuu.com)
 
 Projekti on näkyvissä domainilla: [app.marekpuu.com](https://app.marekpuu.com)
 
-Testikäyttäjän tunnukset: admin:testi
-
 Ominaisuudet
 ---
 - Kirjaudu tai rekisteröidy
